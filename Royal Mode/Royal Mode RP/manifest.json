@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Royal Mode — RP",
+    "description": "Resource pack for Royal Mode.",
+    "uuid": "4d5aebc7-0f90-4fcf-946b-81f6e965f6ff",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 50]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f623cc20-15e3-4f0c-906a-75dc2ba4375f",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["@VigeNerSl"],
+    "license": "CC BY-NC-SA 4.0",
+    "url": "https://t.me/vigenersl, https://github.com/vigenersl"
+  }
+}

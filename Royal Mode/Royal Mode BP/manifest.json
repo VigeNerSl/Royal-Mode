@@ -1,0 +1,34 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Royal Mode — BP",
+    "description": "Behavior pack for Royal Mode.",
+    "uuid": "5ec58db0-d950-4f3c-8bc9-af2de1aae172",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 50]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/main.js",
+      "uuid": "a6617162-19f0-416a-ab0f-30e834e4bead",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "4d5aebc7-0f90-4fcf-946b-81f6e965f6ff",
+      "version": [1, 0, 0]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.16.0"
+    }
+  ],
+  "metadata": {
+    "authors": ["@VigeNerSl"],
+    "license": "CC BY-NC-SA 4.0",
+    "url": "https://t.me/vigenersl, https://github.com/vigenersl"
+  }
+}

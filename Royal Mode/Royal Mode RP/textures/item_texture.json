@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "Royal Mode — RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "vig_heart": {
+      "textures": "textures/items/vig_heart"
+    }
+  }
+}
