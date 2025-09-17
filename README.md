@@ -3,9 +3,6 @@ Royal Battle Add-on
 Author: VigeNerSl
 License: CC BY-NC-SA 4.0
 
-About
-This is an add-on for Minecraft Bedrock edition that creates a custom royal battle mode. It adds new mechanics and items, as well as balanced features for PvP gameplay. 
-
 Config (CFG)
 The add-on uses the following config values:
 * MIN: 1 → Minimum number of health points a player can start with (never less than 1)
