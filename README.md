@@ -2,7 +2,7 @@ Royal Battle Add-on
 
 Author: VigeNerSl
 License: CC BY-NC-SA 4.0
-Version: 1.21.5х - 1.21.10х(Minecraft Bedrock Edition)
+Version: 1.21.5х - 1.21.11х(Minecraft Bedrock Edition)
 
 Config (CFG)
 The add-on uses the following config values:
